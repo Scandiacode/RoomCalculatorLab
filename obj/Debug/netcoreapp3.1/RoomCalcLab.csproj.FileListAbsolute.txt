@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.exe
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.deps.json
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.runtimeconfig.json
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.runtimeconfig.dev.json
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.dll
+C:\Users\logan\source\repos\RoomCalcLab\bin\Debug\netcoreapp3.1\RoomCalcLab.pdb
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.AssemblyInfo.cs
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.dll
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.pdb
+C:\Users\logan\source\repos\RoomCalcLab\obj\Debug\netcoreapp3.1\RoomCalcLab.genruntimeconfig.cache
